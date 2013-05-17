@@ -1,0 +1,13 @@
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\T4Template\T4Template\obj\Debug\T4Template.csprojResolveAssemblyReference.cache
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\T4Template\T4Template\bin\Debug\T4TemplateDemo.exe.config
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\T4Template\T4Template\bin\Debug\T4TemplateDemo.exe
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\T4Template\T4Template\bin\Debug\T4TemplateDemo.pdb
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\T4Template\T4Template\obj\Debug\T4TemplateDemo.exe
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\T4Template\T4Template\obj\Debug\T4TemplateDemo.pdb
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\15_Homework\2.T4Template\T4Template\bin\Debug\T4TemplateDemo.exe.config
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\15_Homework\2.T4Template\T4Template\obj\Debug\T4TemplateDemo.exe
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\15_Homework\2.T4Template\T4Template\obj\Debug\T4TemplateDemo.pdb
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\15_Homework\2.T4Template\T4Template\obj\Debug\T4Template.csprojResolveAssemblyReference.cache
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\15_Homework\2.T4Template\T4Template\bin\Debug\T4TemplateDemo.exe
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\15_Homework\2.T4Template\T4Template\bin\Debug\T4TemplateDemo.pdb
+C:\Users\SMVALKOV\Google Drive\TelerikAcademy\QPC\15_Development_Tools\15_Homework\2.T4Template\T4Template\bin\Debug\log4net.dll

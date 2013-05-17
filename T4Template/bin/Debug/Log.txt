@@ -1,0 +1,3 @@
+%date INFO  Console 
+Program started!
+

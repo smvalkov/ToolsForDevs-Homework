@@ -1,0 +1,41 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+using System;
+using log4net;
+using log4net.Config;
+
+namespace T4TemplateDemo
+{
+	class MyClass
+	{
+		// Log4Net logging section
+		// check the log4net log file in 2.T4Template\T4Template\bin\Debug\Log.txt
+		private static readonly ILog logger = LogManager.GetLogger(typeof(MyClass));
+		
+		static void Main(string[] args)
+        {
+		BasicConfigurator.Configure();
+		
+		logger.Debug("Here is a debug log.");
+        logger.Info("... and an Info log.");
+        logger.Warn("... and a warning.");
+        logger.Error("... and an error.");
+        logger.Fatal("... and a fatal error.");
+		logger.Info("... Program is starting.");
+		<# for(int i = 0; i < 3; i++) { #>
+		ConsolePrinter<#=i#>();
+		<# } #>	
+		}
+		<# for(int i = 0; i < 3; i++) { #>
+		public static void ConsolePrinter<#=i#>() 
+		{ 
+			int number = <#=i#>*<#=i#>;
+			Console.WriteLine(number);
+		}
+
+		<# } #>	
+	}
+}
